@@ -9,7 +9,7 @@ This repository contains the iPython Notebooks of the Udacity Machine Learning N
 <br><br>
 In this project, we will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age.<br>We will start with a simple algorithm and increase its complexity until we are able to accurately predict the outcomes for at least 80% of the passengers in the provided data.<br>This project will introduce us to some of the concepts of machine learning.
 <br>
-## Model Evaluation and Validation - Predict Boston Houses Pricing
+## Model Evaluation and Validation - Predict Boston Housing Prices
 <i>Use NumPy and Scikit-Learn to model observed data, and gauge how well our models perform.</i>
 <br><br>
 In this project, we will apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home.<br>We will first explore the data to obtain important features and descriptive statistics about the dataset.<br>Next, we will properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. We will then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable us to pick the optimal model that best generalizes for unseen data.<br>Finally, we will test this optimal model on a new sample and compare the predicted selling price to our statistics.
