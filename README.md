@@ -1,7 +1,7 @@
 # Udacity-ML-assignments
 Udacity Machine Learning Nanodegree Assignements
 
-This repository contains the iPython Notebooks of the Udacity Machine Learning Nanodegree assignements. These are not directly usable since data and complementary code are missing. Consider them as reports to get an overview of the studied fields in this nanodegree.
+This repository contains the iPython Notebooks of the Udacity Machine Learning Nanodegree assignments. These are not directly usable since data and complementary code are missing. Consider them as reports to get an overview of the studied fields in this nanodegree.
 
 # Projects
 ## Exploratory Project - Titanic Survival Exploration
